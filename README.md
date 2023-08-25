@@ -1,5 +1,5 @@
 # Seja muito bem-vindo(a) ao meu perfil @mz-r
-- 💻 Trabalho como Analista de Integração e Freelancer.
+- 💻 Trabalho como Analista.
 - 🌱 Sou acadêmico em Análise e Desenvolvimento de Sistemas 
 - e
 - estudante na Alura - Cursos online de Tecnologia.
